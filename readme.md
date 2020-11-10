@@ -1,28 +1,39 @@
-# This is a large heading
+# John House
 
-## This is a smaller heading
+## Home
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Montreal, a beautiful city in the province of Quebec in Canada.
+I was born in Sigourney, Iowa. Sigourney is a farming community in the 
+heartland of the United States of Americ.
 
-- This is
-- an unordered
-- list
+### Interests
 
-1. This is
-2. an ordered
-3. list
+Some of my favorite things to do are:
 
-Here is `some code` in the middle of a sentence.
+- Spending time with my family
+- Working in the garden and yard
+- Following American politics
 
-```
-This is
-a block
-of code
-```
+### Favorite Meals
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My wife is Italian and she's cooks delicious meals. Some of my 
+favrorite dishes are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. *Lasagna*
+2. *Cavatelli and Rapini*
+3. *Chicken Cacciatore*
+
+### Travel
+
+When the pandemic is over, I hope to be able to travel with my
+family to many places around the world. The list of places we plan
+to visit includes the following:
+
+1. Italy
+2. Sigourney, Iowa
+3. Disney World
+4. Japan
+
+### Contact
+
+The best way to reach me is [on Twitter](https://twitter.com/SigourneyJohn).
